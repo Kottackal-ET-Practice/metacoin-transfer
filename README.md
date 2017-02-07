@@ -115,5 +115,4 @@ Go to the link http://localhost:8080/ in your browser
 
 
 ![Browser Screenshot](./screenshots/metacoin.png)
-Format: ![Browser Screenshot]
 
