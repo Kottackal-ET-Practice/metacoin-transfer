@@ -1,2 +1,3 @@
 # metacoin-transfer
-Transfering metacoin
+
+A small program using truffle framework to transfer metacoin
