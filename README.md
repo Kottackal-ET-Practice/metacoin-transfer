@@ -2,6 +2,8 @@
 
 The sample truffle program to transfer metacoin.
 
+Step 1
+
 Start the ethereum testrpc
 
 ```
@@ -78,6 +80,8 @@ Listening on localhost:8545
 
 ```
 
+Step 2
+
 Deploy the code to the ethereum test network
 
 ```
@@ -98,6 +102,8 @@ Saving successful migration to network...
 Saving artifacts...
 
 ```
+
+Step 3
 
 To start the server
 
