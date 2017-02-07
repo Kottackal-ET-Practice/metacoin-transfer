@@ -1,6 +1,6 @@
 # Metacoin Transfer
 
-A small program using truffle framework to transfer metacoin.
+The sample truffle program to transfer metacoin.
 
 Start the ethereum testrpc
 
